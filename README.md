@@ -1,2 +1,2 @@
 # exerciciosPython
-Algoritmos para teste de conceito, utilizando a lingugem Python
+Algoritmos simples para testes de conceito da liguagem Python
