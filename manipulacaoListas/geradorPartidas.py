@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 from funcoesGeradordePartidas import *
+=======
+from funcoesDicionario import *
+>>>>>>> origin/main
 
 time = []
 adversario = []
